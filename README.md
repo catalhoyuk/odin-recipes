@@ -1,2 +1,3 @@
 # odin-recipes
 OP HTML practice
+This is the first project in the Odin Project's Introduction. At the end of this project, I should be able to demonstrate how to create a git repository and download it to the local machine. I should be more comfortable with basic git commands by committing my coding changes as often as possible. I should also be able to make a basic HTML page. This project will be used at a later date to practice adding style with CSS. 
